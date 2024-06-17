@@ -1,0 +1,6 @@
+@APIToyKids_HostAddress = http://localhost:5291
+
+GET {{APIToyKids_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
